@@ -1,2 +1,3 @@
 # Hashiwokakero
-Solver for the Hashiwokakero Bridge game.
+Solver for the Hashiwokakero Bridge game.  
+Readme in process...
